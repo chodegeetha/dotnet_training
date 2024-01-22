@@ -1,0 +1,14 @@
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll

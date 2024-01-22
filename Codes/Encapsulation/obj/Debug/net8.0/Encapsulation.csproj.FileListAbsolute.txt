@@ -1,0 +1,14 @@
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\datatypes\Codes\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
