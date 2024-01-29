@@ -1,0 +1,15 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\bin\Debug\net8.0\foreachloops.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\bin\Debug\net8.0\foreachloops.deps.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\bin\Debug\net8.0\foreachloops.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\bin\Debug\net8.0\foreachloops.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\bin\Debug\net8.0\foreachloops.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.sourcelink.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\refint\foreachloops.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\foreachloops.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\foreachloops\obj\Debug\net8.0\ref\foreachloops.dll

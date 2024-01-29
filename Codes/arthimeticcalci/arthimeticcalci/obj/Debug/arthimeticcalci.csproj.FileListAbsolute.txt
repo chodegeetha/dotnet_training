@@ -1,0 +1,6 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\obj\Debug\arthimeticcalci.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\obj\Debug\arthimeticcalci.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\bin\Debug\arthimeticcalci.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\bin\Debug\arthimeticcalci.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\obj\Debug\arthimeticcalci.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\arthimeticcalci\arthimeticcalci\obj\Debug\arthimeticcalci.pdb

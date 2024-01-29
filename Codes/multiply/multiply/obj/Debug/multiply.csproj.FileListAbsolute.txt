@@ -1,0 +1,9 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\bin\Debug\multiply.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\bin\Debug\multiply.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\bin\Debug\multiply.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\bin\Debug\arthimeticcalci.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\obj\Debug\multiply.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\obj\Debug\multiply.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\obj\Debug\multiply.csproj.CopyComplete
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\obj\Debug\multiply.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multiply\multiply\obj\Debug\multiply.pdb

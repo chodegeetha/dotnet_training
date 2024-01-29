@@ -1,0 +1,6 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\bin\Debug\subdll.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\bin\Debug\subdll.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\obj\Debug\subdll.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\obj\Debug\subdll.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\obj\Debug\subdll.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\mydll\subdll\obj\Debug\subdll.pdb

@@ -1,0 +1,9 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\bin\Debug\modulus.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\bin\Debug\modulus.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\bin\Debug\modulus.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\bin\Debug\arthimeticcalci.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\obj\Debug\modulus.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\obj\Debug\modulus.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\obj\Debug\modulus.csproj.CopyComplete
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\obj\Debug\modulus.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\modulus\modulus\obj\Debug\modulus.pdb

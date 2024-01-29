@@ -1,0 +1,15 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\bin\Debug\net8.0\switch operators.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\bin\Debug\net8.0\switch operators.deps.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\bin\Debug\net8.0\switch operators.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\bin\Debug\net8.0\switch operators.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\bin\Debug\net8.0\switch operators.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.sourcelink.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\refint\switch operators.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\switch operators.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\switch operators\obj\Debug\net8.0\ref\switch operators.dll
