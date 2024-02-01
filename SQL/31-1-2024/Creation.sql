@@ -1,6 +1,5 @@
-Create Database WordVoyager;
-use WordVoyager;
-
+Create database WordVoyager
+use WordVoyager
 Create Table User_Table
 (
   UserId INT primary key,
@@ -10,7 +9,6 @@ Create Table User_Table
   RegistrationDate DATETIME
   );
   sp_help 'ArticleTag' ;
-   /*  TO SEE THE INFO ABOUT COLUMNS (SKELETON) IN THE TABLE */
 
   /*usertable*/
 
@@ -38,10 +36,6 @@ Create Table User_Table
     ArticleId  INT Foreign key  REFERENCES Article_Table(ArticleId),
     UserId INT Foreign key REFERENCES User_Table(UserId)
   );
-  Create Table Tag_Table (
-    TagId INT PRIMARY KEY,
-    Name NVARCHAR(100)
-  );  
 
   Create Table ArticleTag (
     PRIMARY KEY (ArticleId, TagId),
@@ -49,7 +43,10 @@ Create Table User_Table
     TagId INT FOREIGN KEY  REFERENCES Tag_Table(TagId)
   );
 
-  
+  Create Table Tag_Table (
+    TagId INT PRIMARY KEY,
+    Name NVARCHAR(100)
+  );  
   Create Table Attachment_Table (
     AttachmentId INT PRIMARY KEY,
     FileName NVARCHAR(100),
@@ -58,12 +55,3 @@ Create Table User_Table
     UploadDate DATETIME,
     ArticleId INT FOREIGN KEY  REFERENCES Article_Table(ArticleId)
   );
-  select * From INFORMATION_SCHEMA.columns where Table_name='Attachment_Table'
-  /*  TO SEE THE INFO ABOUT COLUMNS (SKELETON) IN THE TABLE */
-  select * From INFORMATION_SCHEMA.TABLES;
-   /*  TO SEE THE EXISTING TABLES IN THE DATABASE (OR) CONTROL F1 KEY */
- 
-
-
-
-  
