@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\bin\Debug\partial.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\bin\Debug\partial.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\bin\Debug\partial.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\obj\Debug\partial.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\obj\Debug\partial.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\obj\Debug\partial.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\partial\partial\obj\Debug\partial.pdb

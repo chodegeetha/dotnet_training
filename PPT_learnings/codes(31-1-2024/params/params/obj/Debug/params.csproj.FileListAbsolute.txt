@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\bin\Debug\@params.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\bin\Debug\@params.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\bin\Debug\@params.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\obj\Debug\params.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\obj\Debug\params.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\obj\Debug\@params.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\params\params\obj\Debug\@params.pdb
