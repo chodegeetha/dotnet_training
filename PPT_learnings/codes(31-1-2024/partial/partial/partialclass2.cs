@@ -6,24 +6,21 @@ using System.Threading.Tasks;
 
 namespace partial
 {
-    public partial class Calcii
+     partial class Calcii
     {
-        public Calcii()
-        {
-            Console.WriteLine("Constructor called");
-            Console.Read();
-        }
+      
 
-       public partial void add(int a, int b)
+        partial void add(int a, int b)
         {
             Console.WriteLine(a + ", " + b);
-            Console.WriteLine(x);
-
+           
 
         }
+       
        public void mul(int a, int b)
         {
             Console.Write(a * b);
+            Console.ReadLine();
         }
 
     }

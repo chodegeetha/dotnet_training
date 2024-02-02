@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace partial
 {
-    public  partial class Calcii
+      partial class Calcii
     {
         private int x;
-        Calcii(int num)
+        public Calcii(int num)
         {
             x = num;
         }
-       public  partial void add(int a, int b);
+        partial void add(int a, int b);
+
+        public void addPublic(int a, int b)
+        {
+            this.add(a, b);
+
+        }
     }
 }

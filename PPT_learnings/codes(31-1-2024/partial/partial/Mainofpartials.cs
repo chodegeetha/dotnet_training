@@ -10,9 +10,10 @@ namespace partial
     {
         public static void Main(string[] args)
         {
-            Calcii x=new Calcii();
-             x.add(10, 20);
-             x.mul(15, 3);
+            
+            Calcii obj=new Calcii(40);
+             obj.addPublic(10, 20);
+             obj.mul(15, 3);
         }
     }
 }
