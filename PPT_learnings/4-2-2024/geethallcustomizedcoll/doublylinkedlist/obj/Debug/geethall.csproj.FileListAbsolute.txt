@@ -5,3 +5,10 @@ C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\do
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\doublylinkedlist\doublylinkedlist\obj\Debug\geethall.csproj.CoreCompileInputs.cache
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\doublylinkedlist\doublylinkedlist\obj\Debug\doublylinkedlist.exe
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\doublylinkedlist\doublylinkedlist\obj\Debug\doublylinkedlist.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\bin\Debug\doublylinkedlist.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\bin\Debug\doublylinkedlist.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\bin\Debug\doublylinkedlist.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\obj\Debug\geethall.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\obj\Debug\geethall.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\obj\Debug\doublylinkedlist.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\PPT_learnings\4-2-2024\geethallcustomizedcoll\doublylinkedlist\obj\Debug\doublylinkedlist.pdb

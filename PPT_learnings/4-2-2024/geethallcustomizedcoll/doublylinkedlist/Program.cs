@@ -6,7 +6,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace geethall
+namespace Geethall
 {
 
 
@@ -31,6 +31,7 @@ namespace geethall
         #endregion
 
         //To add item to the current list
+        #region
         public void AddNode(T data)
             {
                 Node<T> newNode = new Node<T>(data);
@@ -49,10 +50,12 @@ namespace geethall
                 count++;
 
             }
+        #endregion
 
-           
+
         //To remove item which is present in the list
-            public void RemoveNode(T data)
+        #region
+        public void RemoveNode(T data)
             {
                 Node<T> current = head;
                 while (current != null)
@@ -85,26 +88,32 @@ namespace geethall
                 }
                 count--;
             }
+        #endregion
 
-            
+
         //To clear all the elements in the List 
-            public void Clear()
+        #region
+        public void Clear()
             {
                 head = tail = null;
                 count = 0;
             }
-            
+        #endregion
+
         //To find Whether the list is empty or Not
-            public bool IsEmpty()
-            {
+        #region
+        public bool IsEmpty()
+         {
                 if (head == null && tail == null)
                     return true;
                 return false;
-            }
-            
+          }
+        #endregion
+
         //To find item is present  at the List or Not
-            public bool Contains(T data)
-            {
+        #region
+        public bool Contains(T data)
+         {
                 Node<T> current = head;
 
                 while (current != null)
@@ -123,11 +132,13 @@ namespace geethall
 
 
 
-            }
+         }
+        #endregion
 
-            
+
         //To find Indexof certain item at the List
-            public int IndexOf(T data)
+        #region
+        public int IndexOf(T data)
             {
                 Node<T> current = head;
                 int index = 0;
@@ -145,8 +156,10 @@ namespace geethall
 
                 return -1; // Return -1 if the element is not found
             }
+        #endregion
         //To count the noof elements in the list
-            public int Count()
+        #region
+        public int Count()
             {
                 count = 0;
                 Node<T> current = head;
@@ -159,10 +172,10 @@ namespace geethall
 
                 return count;
             }
-            
+        #endregion
         //To covert given list to  the array
-
-            public T[] ToArray()
+        #region
+        public T[] ToArray()
             {
                 T[] arr = new T[count]; // count track the length of elements
                 Node<T> current = head;
@@ -175,9 +188,11 @@ namespace geethall
 
                 return arr;
             }
+        #endregion
 
         // To reverse the elements present in the list
-            public void Reverse()
+        #region
+        public void Reverse()
             {
                 Node<T> current = head;
                 Node<T> temp = null;
@@ -197,9 +212,11 @@ namespace geethall
                     current = temp;
                 }
             }
-           
+        #endregion
+
         // To implement foreach loop we need getenumerator so we need to implement the Ienumerable interface which has this method and return type has Ienumerator
-            public IEnumerator<T> GetEnumerator()
+        #region
+        public IEnumerator<T> GetEnumerator()
             {
                 Node<T> current = head;
 
@@ -214,15 +231,17 @@ namespace geethall
             {
                 return GetEnumerator();
             }
-
+        #endregion
         //To print the elements in the list
-            public void PrintList(geethall<int> dll)
-            {
+        #region
+        public void PrintList(geethall<int> dll)
+        {
                 foreach (int i in dll)
                 {
                     Console.WriteLine(i + " " + "\n");
                 }
-            }
+        }
+        #endregion
 
 
 
