@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\bin\Debug\IenumerableandIenumerator.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\bin\Debug\IenumerableandIenumerator.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\bin\Debug\IenumerableandIenumerator.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\obj\Debug\iterators.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\obj\Debug\iterators.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\obj\Debug\IenumerableandIenumerator.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\IenumerableandIenumerator\IenumerableandIenumerator\obj\Debug\IenumerableandIenumerator.pdb
