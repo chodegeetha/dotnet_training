@@ -1,0 +1,6 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\bin\Debug\geethadllfile.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\bin\Debug\geethadllfile.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\obj\Debug\geethadllfile.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\obj\Debug\geethadllfile.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\obj\Debug\geethadllfile.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\geethadllfile\geethadllfile\obj\Debug\geethadllfile.pdb

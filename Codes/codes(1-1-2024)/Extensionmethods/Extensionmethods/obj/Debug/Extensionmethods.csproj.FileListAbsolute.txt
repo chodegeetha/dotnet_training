@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\bin\Debug\Extensionmethods.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\bin\Debug\Extensionmethods.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\bin\Debug\Extensionmethods.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\obj\Debug\Extensionmethods.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\obj\Debug\Extensionmethods.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\obj\Debug\Extensionmethods.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Extensionmethods\Extensionmethods\obj\Debug\Extensionmethods.pdb

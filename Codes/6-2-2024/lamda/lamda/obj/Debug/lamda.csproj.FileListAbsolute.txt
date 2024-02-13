@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\bin\Debug\lamda.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\bin\Debug\lamda.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\bin\Debug\lamda.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\obj\Debug\lamda.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\obj\Debug\lamda.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\obj\Debug\lamda.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\lamda\lamda\obj\Debug\lamda.pdb

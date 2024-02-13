@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\bin\Debug\castingcodes.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\bin\Debug\castingcodes.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\bin\Debug\castingcodes.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\obj\Debug\castingcodes.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\obj\Debug\castingcodes.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\obj\Debug\castingcodes.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\castingcodes\castingcodes\obj\Debug\castingcodes.pdb

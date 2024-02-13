@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\bin\Debug\reflection.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\bin\Debug\reflection.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\bin\Debug\reflection.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\obj\Debug\reflection.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\obj\Debug\reflection.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\obj\Debug\reflection.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\reflection\reflection\obj\Debug\reflection.pdb

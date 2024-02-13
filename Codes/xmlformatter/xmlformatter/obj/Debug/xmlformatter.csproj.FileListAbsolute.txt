@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\bin\Debug\xmlformatter.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\bin\Debug\xmlformatter.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\bin\Debug\xmlformatter.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\obj\Debug\xmlformatter.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\obj\Debug\xmlformatter.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\obj\Debug\xmlformatter.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\xmlformatter\xmlformatter\obj\Debug\xmlformatter.pdb

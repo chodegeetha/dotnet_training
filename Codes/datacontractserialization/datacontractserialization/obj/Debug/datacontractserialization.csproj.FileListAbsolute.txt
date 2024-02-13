@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\bin\Debug\datacontractserialization.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\bin\Debug\datacontractserialization.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\bin\Debug\datacontractserialization.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\obj\Debug\datacontractserialization.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\obj\Debug\datacontractserialization.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\obj\Debug\datacontractserialization.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\datacontractserialization\datacontractserialization\obj\Debug\datacontractserialization.pdb

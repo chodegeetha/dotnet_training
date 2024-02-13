@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\bin\Debug\out vs ref.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\bin\Debug\out vs ref.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\bin\Debug\out vs ref.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\obj\Debug\out vs ref.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\obj\Debug\out vs ref.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\obj\Debug\out vs ref.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\out vs ref\out vs ref\obj\Debug\out vs ref.pdb

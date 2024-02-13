@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\bin\Debug\Binaryformatter.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\bin\Debug\Binaryformatter.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\bin\Debug\Binaryformatter.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\obj\Debug\Binaryformatter.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\obj\Debug\Binaryformatter.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\obj\Debug\Binaryformatter.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Binaryformatter\Binaryformatter\obj\Debug\Binaryformatter.pdb

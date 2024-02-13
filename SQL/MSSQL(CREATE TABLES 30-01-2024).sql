@@ -9,7 +9,7 @@ Create Table User_Table
   PasswordHash NVARCHAR(100),
   RegistrationDate DATETIME
   );
-  sp_help 'ArticleTag' ;
+  sp_help 'Category_Table' ;
    /*  TO SEE THE INFO ABOUT COLUMNS (SKELETON) IN THE TABLE */
 
   /*usertable*/
@@ -58,12 +58,22 @@ Create Table User_Table
     UploadDate DATETIME,
     ArticleId INT FOREIGN KEY  REFERENCES Article_Table(ArticleId)
   );
-  select * From INFORMATION_SCHEMA.columns where Table_name='Attachment_Table'
+  select * From INFORMATION_SCHEMA.columns where Table_name='Category_Table'
   /*  TO SEE THE INFO ABOUT COLUMNS (SKELETON) IN THE TABLE */
   select * From INFORMATION_SCHEMA.TABLES;
    /*  TO SEE THE EXISTING TABLES IN THE DATABASE (OR) CONTROL F1 KEY */
- 
 
+   select * From  Category_Table;
+  
+   select * From Comment_Table;
+    select * From Article_Table;
+	 select * From ArticleTag;
+	  select * From Attachment_Table;
+
+
+
+ 
+ 
 
 
   

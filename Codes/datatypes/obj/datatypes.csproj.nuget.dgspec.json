@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\himaja_geetha\\Documents\\github\\datatypes\\Codes\\datatypes\\datatypes.csproj": {}
+    "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\datatypes\\datatypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\himaja_geetha\\Documents\\github\\datatypes\\Codes\\datatypes\\datatypes.csproj": {
+    "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\datatypes\\datatypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\himaja_geetha\\Documents\\github\\datatypes\\Codes\\datatypes\\datatypes.csproj",
+        "projectUniqueName": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\datatypes\\datatypes.csproj",
         "projectName": "datatypes",
-        "projectPath": "C:\\Users\\himaja_geetha\\Documents\\github\\datatypes\\Codes\\datatypes\\datatypes.csproj",
+        "projectPath": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\datatypes\\datatypes.csproj",
         "packagesPath": "C:\\Users\\himaja_geetha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\himaja_geetha\\Documents\\github\\datatypes\\Codes\\datatypes\\obj\\",
+        "outputPath": "C:\\Users\\himaja_geetha\\Documents\\github\\dotnet_training\\dotnet_training\\Codes\\datatypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

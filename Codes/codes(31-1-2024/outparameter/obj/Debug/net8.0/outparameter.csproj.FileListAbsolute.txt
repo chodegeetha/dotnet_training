@@ -1,0 +1,15 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\bin\Debug\net8.0\outparameter.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\bin\Debug\net8.0\outparameter.deps.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\bin\Debug\net8.0\outparameter.runtimeconfig.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\bin\Debug\net8.0\outparameter.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\bin\Debug\net8.0\outparameter.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.AssemblyInfoInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.AssemblyInfo.cs
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.sourcelink.json
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\refint\outparameter.dll
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\outparameter.genruntimeconfig.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\outparameter\obj\Debug\net8.0\ref\outparameter.dll

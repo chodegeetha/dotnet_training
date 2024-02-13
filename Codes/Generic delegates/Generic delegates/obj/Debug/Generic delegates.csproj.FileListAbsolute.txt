@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\bin\Debug\Generic delegates.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\bin\Debug\Generic delegates.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\bin\Debug\Generic delegates.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\obj\Debug\Generic delegates.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\obj\Debug\Generic delegates.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\obj\Debug\Generic delegates.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Generic delegates\Generic delegates\obj\Debug\Generic delegates.pdb

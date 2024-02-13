@@ -42,6 +42,7 @@ namespace ConsoleApp1
 
 
             Console.WriteLine("hello");
+            Console.ReadLine();
 
 
         }

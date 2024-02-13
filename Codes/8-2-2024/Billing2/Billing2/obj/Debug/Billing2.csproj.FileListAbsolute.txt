@@ -1,0 +1,11 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\bin\Debug\Billing2.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\bin\Debug\Billing2.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\bin\Debug\Billing2.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.Form1.resources
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.Properties.Resources.resources
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.csproj.GenerateResource.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Billing2\Billing2\obj\Debug\Billing2.update.resources

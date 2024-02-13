@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\bin\Debug\list.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\bin\Debug\list.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\bin\Debug\list.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\obj\Debug\list.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\list\list\obj\Debug\list.pdb

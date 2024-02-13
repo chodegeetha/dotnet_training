@@ -1,0 +1,38 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="BillingPage.aspx.cs" Inherits="YourNamespace.BillingPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Billing System</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>Billing System</h1>
+            <div>
+                <label for="ddlProducts">Select Product:</label>
+                <asp:DropDownList ID="ddlProducts" runat="server" />
+                <asp:TextBox ID="txtQuantity" runat="server" placeholder="Quantity" />
+                <asp:Button ID="btnAddToReceipt" runat="server" Text="Add to Receipt" OnClick="btnAddToReceipt_Click" />
+            </div>
+            <div>
+                <!-- Display current receipt items -->
+                <h2>Receipt</h2>
+                <asp:Repeater ID="rptReceipt" runat="server">
+                    <ItemTemplate>
+                        <p><%# Eval("Product.Name") %>: <%# String.Format("{0:C}", Convert.ToDecimal(Eval("Product.Price")) * Convert.ToInt32(Eval("Quantity"))) %></p>
+                    </ItemTemplate>
+                </asp:Repeater>
+                <asp:Label ID="lblTotalAmount" runat="server" Text="Total Amount: " />
+            </div>
+            <asp:Button ID="btnGenerateReceipt" runat="server" Text="Generate Receipt" OnClick="btnGenerateReceipt_Click" />
+            <div>
+                <!-- Display generated receipt -->
+                <h2>Generated Receipt</h2>
+                <asp:Label ID="lblReceipt" runat="server" Text="" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>

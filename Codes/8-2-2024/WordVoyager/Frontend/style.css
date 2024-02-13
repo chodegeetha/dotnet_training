@@ -1,0 +1,26 @@
+.card
+{
+   margin-top:100px;
+   padding-top: 10px;
+   
+
+}
+#navbar 
+{
+    margin-top:100px;
+   padding-top: 10px;
+   color:black;
+   background-color: rgb(23, 28, 27);
+
+}
+#form
+{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+
+}
+.card img{
+    height:250px;
+}
+

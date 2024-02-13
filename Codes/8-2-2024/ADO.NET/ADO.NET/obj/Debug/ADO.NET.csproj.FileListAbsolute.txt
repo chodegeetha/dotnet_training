@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb

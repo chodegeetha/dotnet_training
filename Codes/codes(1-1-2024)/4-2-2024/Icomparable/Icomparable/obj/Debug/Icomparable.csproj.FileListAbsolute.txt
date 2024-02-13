@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\bin\Debug\Icomparable.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\bin\Debug\Icomparable.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\bin\Debug\Icomparable.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\obj\Debug\Icomparable.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\obj\Debug\Icomparable.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\obj\Debug\Icomparable.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Icomparable\Icomparable\obj\Debug\Icomparable.pdb

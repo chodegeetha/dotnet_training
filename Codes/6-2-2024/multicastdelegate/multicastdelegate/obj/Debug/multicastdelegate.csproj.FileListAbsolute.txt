@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\bin\Debug\multicastdelegate.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\bin\Debug\multicastdelegate.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\bin\Debug\multicastdelegate.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\obj\Debug\multicastdelegate.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\obj\Debug\multicastdelegate.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\obj\Debug\multicastdelegate.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\multicastdelegate\multicastdelegate\obj\Debug\multicastdelegate.pdb

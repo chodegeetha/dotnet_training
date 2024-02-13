@@ -1,0 +1,33 @@
+﻿.card {
+    margin-top: 10px;
+    padding-top: 10px;
+    
+}
+
+#navbar{
+    padding:10px;
+}
+
+
+.card img {
+    height: 200px;
+}
+
+
+#conn {
+    height: 300px;
+}
+
+.con{
+    height:400px;
+}
+#signup {
+    margin-top: 50px;
+    max-width: 400px;
+    max-height: 400px ;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+

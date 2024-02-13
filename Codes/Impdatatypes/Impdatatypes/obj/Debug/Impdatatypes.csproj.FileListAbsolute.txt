@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\bin\Debug\Impdatatypes.exe.config
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\bin\Debug\Impdatatypes.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\bin\Debug\Impdatatypes.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\obj\Debug\Impdatatypes.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\obj\Debug\Impdatatypes.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\obj\Debug\Impdatatypes.exe
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Impdatatypes\Impdatatypes\obj\Debug\Impdatatypes.pdb
