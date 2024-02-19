@@ -1,0 +1,10 @@
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\bin\Debug\NotepadCustomcontrol.exe.config
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\bin\Debug\NotepadCustomcontrol.exe
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\bin\Debug\NotepadCustomcontrol.pdb
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.Form1.resources
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.Properties.Resources.resources
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.csproj.GenerateResource.cache
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.exe
+C:\Users\himaja_geetha\source\repos\NotepadCustomcontrol\NotepadCustomcontrol\obj\Debug\NotepadCustomcontrol.pdb

@@ -81,3 +81,5 @@ C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\We
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Webmvc\Webmvc\obj\Debug\Webmvc.csproj.CopyComplete
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Webmvc\Webmvc\obj\Debug\Webmvc.dll
 C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Webmvc\Webmvc\obj\Debug\Webmvc.pdb
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Webmvc\Webmvc\obj\Debug\Webmvc.Migrations.db_mig.resources
+C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Webmvc\Webmvc\obj\Debug\Webmvc.csproj.GenerateResource.cache

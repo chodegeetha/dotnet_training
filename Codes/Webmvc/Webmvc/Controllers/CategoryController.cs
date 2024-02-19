@@ -9,17 +9,17 @@ namespace Webmvc.Controllers
 {
     public class CategoryController : Controller
     {
-        CategoryContext cc = new CategoryContext();
+        UserContext cc = new UserContext();
         public ActionResult Index()
         {
-            var  categoryitems=cc.categories.ToList();
+            var  categoryitems=cc.Categories.ToList();
             return View(categoryitems);
         }
         public ActionResult Create(Category_Table category)
         {
             if(ModelState.IsValid)
             {
-                cc.categories.Add(category);
+                cc.Categories.Add(category);
                 int a=cc.SaveChanges();
                 if (a > 0)
                 {
@@ -36,7 +36,7 @@ namespace Webmvc.Controllers
         }
         public ActionResult Edit(int Id)
         {
-            var row=cc.categories.Where (model=>model.CategoryId==Id).FirstOrDefault();
+            var row=cc.Categories.Where (model=>model.CategoryId==Id).FirstOrDefault();
             return View(row);
         }
         [HttpPost]
@@ -60,5 +60,20 @@ namespace Webmvc.Controllers
             }
             return View();
         }
+
+        public ActionResult Delete(int id)
+        {
+            var row = cc.Categories.Where(model => model.CategoryId == id).FirstOrDefault();
+            cc.Categories.Remove(row);
+            cc.SaveChanges();
+            return RedirectToAction("Index");
+
+        }
+        public ActionResult Details(int id)
+        {
+            var row = cc.Categories.Where(model => model.CategoryId == id).FirstOrDefault();
+            return View(row);
+        }
     }
 }
+   

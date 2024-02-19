@@ -1,0 +1,17 @@
+2024-02-16 14:24:36,723 [10] INFO  Crud_mvc_withado1.Controllers.ArticleController - Heelo
+2024-02-16 14:33:20,940 [8] DEBUG Crud_mvc_withado1.Controllers.ArticleController - DB NIT AVAILABLE!
+2024-02-17 11:30:34,118 [16] INFO  Crud_mvc_withado1.Controllers.ArticleController - hello
+2024-02-17 12:42:13,299 [66] ERROR Crud_mvc_withado1.Filter.LogExceptionFilterAttribute - An unhandled exception occurred.
+System.Exception: Error Occured!
+   at Crud_mvc_withado1.Controllers.ArticleController.Index() in C:\Users\himaja_geetha\Documents\github\dotnet_training\dotnet_training\Codes\Crud(mvc)withado1\Crud(mvc)withado1\Controllers\ArticleController.cs:line 22
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c.<BeginInvokeSynchronousActionMethod>b__9_0(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_0.<InvokeActionMethodFilterAsynchronouslyRecursive>b__0()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)

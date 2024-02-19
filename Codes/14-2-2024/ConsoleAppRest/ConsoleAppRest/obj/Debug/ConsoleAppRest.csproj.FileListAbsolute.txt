@@ -1,0 +1,7 @@
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\bin\Debug\ConsoleAppRest.exe.config
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\bin\Debug\ConsoleAppRest.exe
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\bin\Debug\ConsoleAppRest.pdb
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\obj\Debug\ConsoleAppRest.csproj.AssemblyReference.cache
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\obj\Debug\ConsoleAppRest.csproj.CoreCompileInputs.cache
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\obj\Debug\ConsoleAppRest.exe
+C:\Users\himaja_geetha\source\repos\ConsoleAppRest\ConsoleAppRest\obj\Debug\ConsoleAppRest.pdb

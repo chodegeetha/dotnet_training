@@ -1,0 +1,55 @@
+﻿
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.Label("name", "Name:")
+        @Html.TextBox("name")
+    </div>
+    <div>
+        @Html.Label("email", "Email:")
+        @Html.TextBox("email")
+    </div>
+    <div>
+        @Html.Label("gender", "Gender:")
+        @Html.RadioButton("gender", "Male") Male
+        @Html.RadioButton("gender", "Female") Female
+    </div>
+    <div>
+        @Html.Label("colors", "Favorite Color:")
+        @Html.DropDownList("colors", new SelectList(new[] { "Red", "Green", "Blue" }))
+    </div>
+    <div>
+        @Html.CheckBox("acceptedTerms") I accept the terms and conditions
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+}
+
+<div>
+    @if (!string.IsNullOrEmpty(ViewBag.Name))
+    {
+        <p>Name: @ViewBag.Name</p>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.Email))
+    {
+        <p>Email: @ViewBag.Email</p>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.Gender))
+    {
+        <p>Gender: @ViewBag.Gender</p>
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.Colors))
+    {
+        <p>Favorite Color: @ViewBag.Colors</p>
+    }
+    @if (ViewBag.AcceptedTerms != null && (bool)ViewBag.AcceptedTerms)
+    {
+        <p>Accepted Terms: Yes</p>
+    }
+
+    else
+    {
+        <p>Accepted Terms: No</p>
+    }
+</div>
